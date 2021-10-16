@@ -1,2 +1,1 @@
-# TkinterEdit
-cool notepad with tkinter!!!!!1!11
+# YES VERY POGR
