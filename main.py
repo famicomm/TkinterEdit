@@ -35,7 +35,7 @@ def newfile():
     root.title("TkinterEdit ~ New File")
 
 def helpbttn():
-    messagebox.showinfo("Tkinter Edit", "A really light and convenient text editor made with Python")
+    messagebox.showinfo("TkinterEdit", "yes kind of pog")
 
 
 menubar = Menu(root)
